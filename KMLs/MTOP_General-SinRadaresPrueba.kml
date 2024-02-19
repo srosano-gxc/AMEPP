@@ -4,7 +4,20 @@
 <Folder><name>Estacionamiento</name>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento 183k200 y Ruta 12 - Cardona</description>
+	<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 2
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">1</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -15,7 +28,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento 107k000 - Florencio Sánchez</description>
+	<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 12
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">2</SimpleData>
 		<SimpleData name="Ruta">12</SimpleData>
@@ -29,11 +55,15 @@
 	<description><![CDATA[
     <b>Estacionamiento</b>
     <br/>
-    Estacionamiento 81k500 y Ruta 63 - Santa Lucía
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 11
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
     <br/><br/>
     <img
 	  style="max-width: 320px; margin-top: 15px;"
-      src="https://github.com/srosano-gxc/AMEPP/raw/4af5163efe4995a37bc8fc1103b2e7b552a2f5f4/estacionamiento.jpg"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
       alt="Estacionamiento"
 	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
@@ -46,7 +76,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento 106k000 - Minas</description>
+	<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 8
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">4</SimpleData>
 		<SimpleData name="Ruta">8</SimpleData>
@@ -57,7 +100,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 5
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">5</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -68,7 +124,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 24
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">7</SimpleData>
 		<SimpleData name="Ruta">24</SimpleData>
@@ -79,7 +148,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 11
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">8</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -90,7 +172,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 43
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">9</SimpleData>
 		<SimpleData name="Ruta">43</SimpleData>
@@ -101,7 +196,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 4
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">10</SimpleData>
 		<SimpleData name="Ruta">4</SimpleData>
@@ -112,7 +220,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 2
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">11</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -123,7 +244,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 2
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">12</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -134,7 +268,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 5
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">13</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -145,7 +292,20 @@
   </Placemark>
   <Placemark>
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/75a34df6937754b865f46490bfc01eda30790af8/Icono-Estacionamiento.png</href></Icon></IconStyle></Style>
-	<description>Estacionamiento</description>
+		<description><![CDATA[
+    <b>Estacionamiento</b>
+    <br/>
+    Nuevo estacionamiento para descanso de transportistas de carga en ruta n. ° 2
+	<br/>
+	Estacionamiento en ruta nacional para descanso de trasportistas de carga. Cada explanada, señalizada e iluminada, incluye espacio de estacionamiento e ingreso a rutas nacionales con seguridad. 
+	<br/>
+	Esta obra integra el Plan Nacional de Infraestructura 2020 - 2025
+    <br/><br/>
+    <img
+	  style="max-width: 320px; margin-top: 15px;"
+      src="https://github.com/srosano-gxc/AMEPP/raw/7b6fbec94c5bd912bb70ca546d080e3863a381ec/Imagenes/camion1.jpg"
+      alt="Estacionamiento"
+	  />]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">14</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
