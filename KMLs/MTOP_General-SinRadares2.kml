@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <Folder><name>Estacionamiento</name>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">1</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -13,7 +13,7 @@
       <Point><coordinates>-57.38213839,-33.87441555</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">2</SimpleData>
 		<SimpleData name="Ruta">12</SimpleData>
@@ -23,7 +23,7 @@
       <Point><coordinates>-57.37483574,-33.87478406</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -33,7 +33,7 @@
       <Point><coordinates>-56.3851222904953,-34.443911345928</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">4</SimpleData>
 		<SimpleData name="Ruta">8</SimpleData>
@@ -43,7 +43,7 @@
       <Point><coordinates>-55.35780388,-34.40704993</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">5</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -53,7 +53,7 @@
       <Point><coordinates>-56.26613339,-34.76739129</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">7</SimpleData>
 		<SimpleData name="Ruta">24</SimpleData>
@@ -63,7 +63,7 @@
       <Point><coordinates>-57.92050745,-32.7660672</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">8</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -73,7 +73,7 @@
       <Point><coordinates>-56.54846577,-34.39536841</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">9</SimpleData>
 		<SimpleData name="Ruta">43</SimpleData>
@@ -83,7 +83,7 @@
       <Point><coordinates>-56.1748715541347,-32.3972305841357</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">10</SimpleData>
 		<SimpleData name="Ruta">4</SimpleData>
@@ -93,7 +93,7 @@
       <Point><coordinates>-56.5000545773703,-30.4272006798307</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">11</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -103,7 +103,7 @@
       <Point><coordinates>-57.6654906,-33.61795582</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">12</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -113,7 +113,7 @@
       <Point><coordinates>-57.74158766,-33.55798239</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">13</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -123,7 +123,7 @@
       <Point><coordinates>-56.2301158166859,-32.2648410701809</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">14</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
