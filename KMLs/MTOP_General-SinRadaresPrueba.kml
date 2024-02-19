@@ -32,8 +32,8 @@
     Estacionamiento 81k500 y Ruta 63 - Santa Lucía
     <br/><br/>
     <img
-      src="https://lh4.googleusercontent.com/proxy/7wq5a9jD8O9NKZbfctB1E-k9x4uPcu3fBUVf-qQc8WJ01jBpzHtm9qnXQzW8TnaLrv39sRLdDukPXk5SDjUmWtG_8goKgGe6iaXYuPU9TCFgVpYKhp0Y4AsfuFIAa2YAWakkFSUSDwWKG9Dfs4L40W-NXCJC9A=s0-d"
-      alt="Estacionamiento"/>]]></description>
+      src="https://github.com/srosano-gxc/AMEPP/raw/4af5163efe4995a37bc8fc1103b2e7b552a2f5f4/estacionamiento.jpg"
+      alt="Estacionamiento" class="ImagenDetalle"/>]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
