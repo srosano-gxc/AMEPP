@@ -504,7 +504,7 @@
 </Folder>
 <Folder><name>Obras_Lineales</name>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color><width>8</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color><width>2</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Lineales">
 		<SimpleData name="Denominacion">REHABILITACION RUTA 5 PASAJE PLANTA URBANA DURAZNO</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -520,7 +520,7 @@
       <LineString><coordinates>-56.5223743680899,-33.3956247106111 -56.52237338,-33.39552469 -56.52242827,-33.39532326 -56.52249037,-33.39513878 -56.52353182,-33.39340763 -56.5236834809432,-33.3931005203278 -56.52369998,-33.39306711 -56.52406822,-33.39241085 -56.52420884,-33.39213475 -56.52430695,-33.39184448 -56.52435269,-33.39152783 -56.52432405,-33.39120327 -56.52422367,-33.39087456 -56.52411243,-33.39065631 -56.52321587,-33.38917547 -56.52210171,-33.38737825 -56.5204932929531,-33.3847601776352 -56.51729709,-33.37955709 -56.51688029,-33.3788317 -56.51664549,-33.3784319 -56.51608311,-33.37751708 -56.5157993536089,-33.3769803423784 -56.51537911,-33.37618542 -56.5152258,-33.3759163 -56.51504287,-33.37564504 -56.5148142,-33.37538255 -56.51455274,-33.37515472 -56.51428383,-33.37495149 -56.51309031,-33.37409961 -56.5130879234518,-33.3740979067358</coordinates></LineString>
   </Placemark>
   <Placemark>
-	<Style><LineStyle><color>ff0000ff</color><width>8</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<Style><LineStyle><color>ff0000ff</color><width>2</width></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Lineales">
 		<SimpleData name="Denominacion">REHABILITACION RUTA 5 PASAJE PLANTA URBANA DURAZNO</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
