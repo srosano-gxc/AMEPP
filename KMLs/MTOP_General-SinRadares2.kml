@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <Folder><name>Estacionamiento</name>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">1</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -13,7 +13,7 @@
       <Point><coordinates>-57.38213839,-33.87441555</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">2</SimpleData>
 		<SimpleData name="Ruta">12</SimpleData>
@@ -23,7 +23,7 @@
       <Point><coordinates>-57.37483574,-33.87478406</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -33,7 +33,7 @@
       <Point><coordinates>-56.3851222904953,-34.443911345928</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">4</SimpleData>
 		<SimpleData name="Ruta">8</SimpleData>
@@ -43,7 +43,7 @@
       <Point><coordinates>-55.35780388,-34.40704993</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">5</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -53,7 +53,7 @@
       <Point><coordinates>-56.26613339,-34.76739129</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">7</SimpleData>
 		<SimpleData name="Ruta">24</SimpleData>
@@ -63,7 +63,7 @@
       <Point><coordinates>-57.92050745,-32.7660672</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">8</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -73,7 +73,7 @@
       <Point><coordinates>-56.54846577,-34.39536841</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">9</SimpleData>
 		<SimpleData name="Ruta">43</SimpleData>
@@ -83,7 +83,7 @@
       <Point><coordinates>-56.1748715541347,-32.3972305841357</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">10</SimpleData>
 		<SimpleData name="Ruta">4</SimpleData>
@@ -93,7 +93,7 @@
       <Point><coordinates>-56.5000545773703,-30.4272006798307</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">11</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -103,7 +103,7 @@
       <Point><coordinates>-57.6654906,-33.61795582</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">12</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -113,7 +113,7 @@
       <Point><coordinates>-57.74158766,-33.55798239</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">13</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -123,7 +123,7 @@
       <Point><coordinates>-56.2301158166859,-32.2648410701809</coordinates></Point>
   </Placemark>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-vivienda.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">14</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
@@ -135,6 +135,7 @@
 </Folder>
 <Folder><name>Obras_Puntuales</name>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">ROTONDA RUTA 5 Y 14 ACCESO SUR CIUDAD DE DURAZNO</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -149,6 +150,7 @@
       <Point><coordinates>-56.5223743680899,-33.3956247106111</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">PUENTE SOBRE ARROYO AGUA SUCIA</SimpleData>
 		<SimpleData name="Ruta">6</SimpleData>
@@ -163,6 +165,7 @@
       <Point><coordinates>-55.6119398014282,-33.3460039609372</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">R8, ENSANCHE Y REFUERZO DEL PUENTE SOBRE RIO OLIMAR</SimpleData>
 		<SimpleData name="Ruta">8</SimpleData>
@@ -177,6 +180,7 @@
       <Point><coordinates>-54.4009080297747,-33.2402771801003</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">ACCESO BALNEARIO LA ESMERALDA RUTA 9 KM 280</SimpleData>
 		<SimpleData name="Ruta">9</SimpleData>
@@ -191,6 +195,7 @@
       <Point><coordinates>-53.7125371672172,-34.1472199124948</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">EMPALME RUTA 9 KM 211</SimpleData>
 		<SimpleData name="Ruta">9</SimpleData>
@@ -205,6 +210,7 @@
       <Point><coordinates>-54.2875328587756,-34.4725835817573</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">EMPALME RUTA 10 KM 224</SimpleData>
 		<SimpleData name="Ruta">10</SimpleData>
@@ -219,6 +225,7 @@
       <Point><coordinates>-54.1658296483049,-34.6176664115567</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">ADECUACIONALCANTARILLAS R31</SimpleData>
 		<SimpleData name="Ruta">31</SimpleData>
@@ -233,6 +240,7 @@
       <Point><coordinates>-56.3025668404047,-31.643708022362</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">PUENTE SOBRE ARROYO CUÑAPIRU</SimpleData>
 		<SimpleData name="Ruta">29</SimpleData>
@@ -247,6 +255,7 @@
       <Point><coordinates>-55.5909435505847,-31.532707290313</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Intercambiadores/ Pasaje a desnivel B° Solís</SimpleData>
 		<SimpleData name="Ruta">200</SimpleData>
@@ -261,6 +270,7 @@
       <Point><coordinates>-55.37374386,-34.78646688</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Intercambiadores/ Pasaje a desnivel Ruta 37</SimpleData>
 		<SimpleData name="Ruta">93</SimpleData>
@@ -275,6 +285,7 @@
       <Point><coordinates>-55.2376176147639,-34.7913066706401</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Intercambiadores/ Pasaje a Los Arrayanes</SimpleData>
 		<SimpleData name="Ruta">93</SimpleData>
@@ -289,6 +300,7 @@
       <Point><coordinates>-55.2075398542297,-34.8343939722829</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">PR.CONST.PUENTES R20 - A° DE LOS MOLLES, SALSIPUEDES</SimpleData>
 		<SimpleData name="Ruta">20</SimpleData>
@@ -302,6 +314,7 @@
       <Point><coordinates>-56.6196800199809,-32.6327429157456</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">PR.CONST.PUENTES R20 - A° DE LOS MOLLES, SALSIPUEDES</SimpleData>
 		<SimpleData name="Ruta">20</SimpleData>
@@ -315,6 +328,7 @@
       <Point><coordinates>-56.5980758270677,-32.6311278547115</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">RUTA 29: NUEVO PUENTE SOBRE EL ARROYO CUÑAPIRÚ</SimpleData>
 		<SimpleData name="Ruta">29</SimpleData>
@@ -328,6 +342,7 @@
       <Point><coordinates>-55.5847712471375,-31.5304450645244</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">CONSTRUCCIÓN NVO.PUENTEA°OTASO KM334 DE LA RUTA 8</SimpleData>
 		<SimpleData name="Ruta">8</SimpleData>
@@ -341,6 +356,7 @@
       <Point><coordinates>-54.2557042312926,-32.8365405194716</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">EMPALMES EN: RUTA 26 Y RUTA 31</SimpleData>
 		<SimpleData name="Ruta">26</SimpleData>
@@ -354,6 +370,7 @@
       <Point><coordinates>-57.857258795688,-32.0856724462429</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">RUTA 7, NUEVO PUENTE Y ACCESOS SOBRE ARROYO PEDERNAL</SimpleData>
 		<SimpleData name="Ruta">7</SimpleData>
@@ -367,6 +384,7 @@
       <Point><coordinates>-55.7794771514147,-34.3651467742659</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">8/7/21-ENSANCHEREFUERZO ADECUACIONde Acc.Ptes.A°San Miguel 1</SimpleData>
 		<SimpleData name="Ruta">19</SimpleData>
@@ -380,6 +398,7 @@
       <Point><coordinates>-53.5328557918932,-33.6888933619969</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">8/7/21-ENSANCHEREFUERZO ADECUACIONde Acc.Ptes.A°San Miguel 2</SimpleData>
 		<SimpleData name="Ruta">19</SimpleData>
@@ -393,6 +412,7 @@
       <Point><coordinates>-53.534753774357,-33.6887913883142</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">PUENTE Y ACCESOS SOBRE RÍO CEBOLLATÍ</SimpleData>
 		<SimpleData name="Ruta">15</SimpleData>
@@ -406,6 +426,7 @@
       <Point><coordinates>-53.79667551,-33.27563859</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">NUEVO PUENTE SOBRE RIO NEGRO EN PICADA DE ORIBE</SimpleData>
 		<SimpleData name="Ruta">43</SimpleData>
@@ -420,6 +441,7 @@
       <Point><coordinates>-55.8275431626583,-32.5678773301853</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">RUTA 5, ENSANCHEREFUERZOY  ADECUACIONACCESOS DEL PUENTE SOBRE RIO YI</SimpleData>
 		<SimpleData name="Ruta">5</SimpleData>
@@ -434,6 +456,7 @@
       <Point><coordinates>-56.5127482117342,-33.3738554555086</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">RUTA 11: PUENTES SOBRE ARROYO CANELÓN CHICO</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -447,6 +470,7 @@
       <Point><coordinates>-56.2667605589832,-34.521183424975</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Adecuación de empalme. Ruta 11 y Ruta 45</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
@@ -461,6 +485,7 @@
       <Point><coordinates>-56.5482003616998,-34.3955519479564</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Empalme Ruta 12 y Accesos San Francisco de las Sierras (Parque Vacaciones UTE)</SimpleData>
 		<SimpleData name="Ruta">12</SimpleData>
@@ -475,6 +500,7 @@
       <Point><coordinates>-55.2197976927229,-34.4148036449728</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Rotonda: Ruta 9 y Cno. Sainz Martínez</SimpleData>
 		<SimpleData name="Ruta">9</SimpleData>
@@ -489,6 +515,7 @@
       <Point><coordinates>-54.5622199242834,-34.6815990509781</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">Empalme: Ruta 8 y Ruta 13</SimpleData>
 		<SimpleData name="Ruta">8</SimpleData>
@@ -503,6 +530,7 @@
       <Point><coordinates>-54.951488358555,-34.2561236424927</coordinates></Point>
   </Placemark>
   <Placemark>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Obras.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Obras_Puntuales">
 		<SimpleData name="Denominacion">CON A LA BALSA-NVO. PUENTE SUMERGIBLE SOBRE ARROYO CORDOBES</SimpleData>
 		<SimpleData name="Financiacion">CVU</SimpleData>
