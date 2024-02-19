@@ -3,7 +3,7 @@
 <Document id="root_doc">
 <Folder><name>Estacionamiento</name>
   <Placemark>
-	<Style><IconStyle><Icon><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href></Icon></IconStyle></Style>
+	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-Salud.png</href></Icon></IconStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">1</SimpleData>
 		<SimpleData name="Ruta">2</SimpleData>
