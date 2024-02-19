@@ -28,7 +28,7 @@
 	<Style><IconStyle><Icon><href>https://github.com/srosano-gxc/AMEPP/raw/a274addfd2b0651245b90cb0088347b8ccdad3b7/IconosWeb-45x45/Icono-educaci%C3%B3n.png</href></Icon></IconStyle></Style>
 	<description><![CDATA[
 <font COLOR="#000000">Estacionamiento 81k500 y Ruta 63 - Santa Lucía</b></font>
-<img src="https://github.com/srosano-gxc/AMEPP/blob/91737bdf818f1416dba88a400b2fdbff2d5974e6/Imagenes/estacionamiento-2-800x400.jpg" alt="Estacionamiento">]]></description>
+<img src="https://github.com/srosano-gxc/AMEPP/raw/91737bdf818f1416dba88a400b2fdbff2d5974e6/Imagenes/estacionamiento-2-800x400.jpg" alt="Estacionamiento">]]></description>
 	<ExtendedData><SchemaData schemaUrl="#Estacionamiento">
 		<SimpleData name="id">3</SimpleData>
 		<SimpleData name="Ruta">11</SimpleData>
